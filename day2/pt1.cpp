@@ -5,7 +5,6 @@
 #include <cctype>
 #include <algorithm>
 using std::cout;
-using std::cin;
 class data {
 // Kommer inte ihåg om class defualtade till public eller private xd
 public:
